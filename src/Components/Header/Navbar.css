@@ -40,10 +40,10 @@
         border-bottom: 2px solid white !important;
     }
     .active:hover{
-        background: rgb(150, 9, 206) !important;
+        background: rgb(150, 7, 207) !important;
     }
     .inactive:hover{
-        background:  rgb(150, 9, 206) !important;
+        background:   rgb(150, 7, 207) !important;
     }
 }
 
